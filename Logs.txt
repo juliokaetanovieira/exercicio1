@@ -1,0 +1,43 @@
+commit 51a3819ea42ba4851116543aafd24b393430ce2c (HEAD -> master, origin/master)
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Tue Mar 12 16:54:10 2019 -0300
+
+    Update README.md
+
+commit 6928adf501bdf4044077accca179a9f7e5ffbb6a
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Tue Mar 12 16:53:43 2019 -0300
+
+    README.md
+
+    Leia atentamente.
+
+commit 544df54dd7ecd45dd47569e840a2042e1f308f62
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Tue Mar 12 16:52:51 2019 -0300
+
+    Update README.md
+
+commit 1fd0d85b631060675c24d3ee418ab6b19fae765c
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Tue Mar 12 16:50:22 2019 -0300
+
+    Update README.md
+
+commit dea9d9cafa69ab1b72fd08e5d117104adab016dd
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Tue Mar 12 16:45:50 2019 -0300
+
+    Create README.md
+
+commit 7638c2f0ce18645a46b42fef860425333d1e4ab8
+Author: Julio Vieira <juliokaetanovieira@gmail.com>
+Date:   Tue Mar 12 16:11:28 2019 -0300
+
+    Criado novo arquivo Logs.txt
+
+commit 0fc3b2d273d02a9fa4f3f8f5a2c31736eb6a2746
+Author: Julio Vieira <juliokaetanovieira@gmail.com>
+Date:   Tue Mar 12 16:08:41 2019 -0300
+
+    Criado novo arquivo Status.txt
